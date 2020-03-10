@@ -6,4 +6,4 @@ my:
 db:
     connection: connection-string-here-from-config-server
     host: 127.0.0.1
-    oirt: 1200
+    port: 1200
